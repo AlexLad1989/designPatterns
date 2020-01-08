@@ -13,7 +13,7 @@ public class BatmanFactory implements SuperHeroFactory {
     }
 
     @Override
-    public Motto addFear() {
+    public Motto addMotto() {
         return new BatmanMotto();
     }
 }

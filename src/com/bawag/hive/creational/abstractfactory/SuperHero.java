@@ -8,7 +8,7 @@ public class SuperHero {
     public SuperHero(SuperHeroFactory superHeroFactory) {
         this.mask = superHeroFactory.addMask();
         this.costume = superHeroFactory.addCostume();
-        this.motto = superHeroFactory.addFear();
+        this.motto = superHeroFactory.addMotto();
     }
 
     public void create() {
