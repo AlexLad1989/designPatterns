@@ -1,4 +1,4 @@
-package com.bawag.hive.behavioral.builder;
+package com.bawag.hive.creational.builder;
 
 public class App {
 

@@ -1,4 +1,4 @@
-package com.bawag.hive.behavioral.abstractfactory;
+package com.bawag.hive.creational.abstractfactory;
 
 public class SuperHero {
     private Mask mask;
